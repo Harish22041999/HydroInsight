@@ -22,12 +22,20 @@ if getattr(sys, 'frozen', False):
     BASE = Path(sys._MEIPASS)
     OUT = BASE / "output"
 else:
+    # Try multiple folder resolutions:
+    # 1. Local "output" folder (DSS/output/)
+    # 2. Parent "output" folder (../output/)
+    # 3. Root folder (./) - in case files were uploaded directly to the root on GitHub
     out_local = Path(__file__).parent / "output"
-    if out_local.exists():
+    out_parent = Path(__file__).resolve().parent.parent / "output"
+    out_root = Path(__file__).parent
+    
+    if (out_local / "GWL_Annual_Summary_1993_2025.csv").exists():
         OUT = out_local
+    elif (out_parent / "GWL_Annual_Summary_1993_2025.csv").exists():
+        OUT = out_parent
     else:
-        BASE = Path(__file__).resolve().parent.parent          # folder containing output/
-        OUT = BASE / "output"
+        OUT = out_root
 FUT = OUT / "Future prediction new"
 
 MODELS = ["Random Forest", "Gradient Boosting", "SVR",
