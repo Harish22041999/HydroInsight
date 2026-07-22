@@ -1,0 +1,7 @@
+Model,RMSE (m),MAE (m),R²,Performance Rank
+CNN-LSTM,1.5936,1.4197,-0.2163,1
+Random Forest,1.6136,1.3375,-0.247,2
+Gradient Boosting,1.6676,1.3208,-0.3319,3
+1D-CNN,2.0075,1.6271,-0.9301,4
+LSTM,2.6056,2.2808,-2.2515,5
+SVR (RBF kernel),4.106,3.5818,-7.0747,6

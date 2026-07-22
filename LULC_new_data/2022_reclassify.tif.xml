@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20260703</CreaDate><CreaTime>11592600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20260703" Time="115926">Reclassify LULC_6class_2022.tif Value "0 NODATA;1 1;2 2;3 3;4 4;5 5;6 6" "D:\Thesis_PhD\GW Level\03.07.2026\output\LULC_new_data\2022_reclassify.tif" NODATA</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,710 @@
+Well No,Latitude,Longitude,District,Well Type,Block_Name,Inside_Basin
+2E38A,11.22049,77.82178399999998,16.Erode,Dug Well,Outside Basin,False
+53258,11.1997,77.4225,19.Tiruppur,Dug Well,Outside Basin,False
+53259,11.2424402,77.5050638,16.Erode,Dug Well,Outside Basin,False
+53260,11.1756,77.4597,19.Tiruppur,Dug Well,Outside Basin,False
+53261,11.1306082,77.4038991,19.Tiruppur,Dug Well,Outside Basin,False
+53262,11.1206,77.4625,19.Tiruppur,Dug Well,Outside Basin,False
+53263,11.163342,77.489956,16.Erode,Dug Well,Outside Basin,False
+53264,11.151747,77.545446,16.Erode,Dug Well,Outside Basin,False
+53265,11.1176965,77.5952872,16.Erode,Dug Well,Outside Basin,False
+53266,11.194444,77.59444399999998,16.Erode,Dug Well,Outside Basin,False
+53266(A),11.1933,77.5939,16.Erode,Dug Well,Outside Basin,False
+53267,11.3774484,77.53758329999998,16.Erode,Dug Well,Perundurai,True
+53268,11.3058173,77.6158058,16.Erode,Dug Well,Outside Basin,False
+53268 A,11.30677,77.61934999999998,16.Erode,Dug Well,Outside Basin,False
+53269,11.3358333,77.57305549999998,16.Erode,Dug Well,Perundurai,True
+53271,11.2294,77.4175,19.Tiruppur,Dug Well,Outside Basin,False
+53272,11.2306,77.465,19.Tiruppur,Dug Well,Outside Basin,False
+61243,10.987222,76.84444399999998,18.Coimbatore,Bore Well,Outside Basin,False
+61245,11.241665,77.241668,19.Tiruppur,Bore Well,Outside Basin,False
+61247,10.978666,77.038342,18.Coimbatore,Bore Well,Outside Basin,False
+61248,11.098848,77.21370899999998,18.Coimbatore,Bore Well,Outside Basin,False
+61249,11.230391,77.112093,18.Coimbatore,Bore Well,Outside Basin,False
+63001,11.3120717,77.31503209999998,16.Erode,Dug Well,Nambiyur,True
+63003,11.3326943,77.41443339999998,16.Erode,Dug Well,Nambiyur,True
+63004,11.398611,77.15694399999998,16.Erode,Dug Well,Bhavanisagar,True
+63004A,11.3997222,77.176111,16.Erode,Dug Well,Bhavanisagar,True
+63005,11.3512873,77.1666841,16.Erode,Dug Well,Bhavanisagar,True
+63006,11.373766,77.20331199999998,16.Erode,Dug Well,Bhavanisagar,True
+63007,11.411673,77.233115,16.Erode,Dug Well,Sathyamangalam,True
+63008,11.3398366,77.2624771,16.Erode,Dug Well,Nambiyur,True
+63009,11.4034279,77.2929957,16.Erode,Dug Well,Nambiyur,True
+63010,11.359722,77.32222199999998,16.Erode,Dug Well,Nambiyur,True
+63010A,11.3587234,77.320159,16.Erode,Dug Well,Nambiyur,True
+63011,11.395757,77.3357318,16.Erode,Dug Well,Nambiyur,True
+63012,11.3652155,77.37855829999998,16.Erode,Dug Well,Nambiyur,True
+63013,11.407473,77.400861,16.Erode,Dug Well,Gobi,True
+63014,11.3959483,77.43317879999998,16.Erode,Dug Well,Gobi,True
+63015,11.359722,77.461111,16.Erode,Dug Well,Gobi,True
+63015 A,11.372222,77.463611,16.Erode,Dug Well,Gobi,True
+63015AA,11.3749962,77.46458649999998,16.Erode,Dug Well,Gobi,True
+63016,11.3699181,77.49885709999998,16.Erode,Dug Well,Gobi,True
+63017,11.474983,77.14312099999998,16.Erode,Dug Well,Bhavanisagar,True
+63018,11.405556,77.179167,16.Erode,Dug Well,Bhavanisagar,True
+63018A,11.4927232,77.18078409999998,16.Erode,Dug Well,Bhavanisagar,True
+63019,11.420447,77.195554,16.Erode,Dug Well,Bhavanisagar,True
+63020,11.450909,77.21536299999998,16.Erode,Dug Well,Sathyamangalam,True
+63021,11.4495485,77.2708664,16.Erode,Dug Well,Sathyamangalam,True
+63022,11.4787417,77.300662,16.Erode,Dug Well,T.N. Palayam,True
+63023,11.4467736,77.3581147,16.Erode,Dug Well,Gobi,True
+63024,11.4574697,77.41228119999998,16.Erode,Dug Well,Gobi,True
+63025,11.44669,77.501475,16.Erode,Dug Well,Gobi,True
+63026,11.4391992,77.5662132,16.Erode,Dug Well,Bhavani,True
+63027,11.5440907,77.1583518,16.Erode,Dug Well,Sathyamangalam,True
+63028,11.533333,77.22499999999998,16.Erode,Dug Well,Sathyamangalam,True
+63028A,11.528429,77.20548499999998,16.Erode,Dug Well,Sathyamangalam,True
+63029,11.506051,77.23573489999998,16.Erode,Dug Well,Sathyamangalam,True
+63030,11.5285502,77.30032099999998,16.Erode,Dug Well,Sathyamangalam,True
+63031,11.505556,77.363889,16.Erode,Dug Well,T.N. Palayam,True
+63031 A,11.5076005,77.3844578,16.Erode,Dug Well,T.N. Palayam,True
+63032,11.5072543,77.4073841,16.Erode,Dug Well,T.N. Palayam,True
+63033,11.513889,77.455556,16.Erode,Dug Well,T.N. Palayam,True
+63033 A,11.527972,77.486675,16.Erode,Dug Well,T.N. Palayam,True
+63034,11.5204343,77.5075054,16.Erode,Dug Well,Gobi,True
+63037,11.6987,76.897316,16.Erode,Dug Well,Outside Basin,False
+63038,11.717319,76.96447499999998,16.Erode,Dug Well,Outside Basin,False
+63039,11.719545,77.035984,16.Erode,Dug Well,Outside Basin,False
+63040,11.666667,77.138889,16.Erode,Dug Well,Outside Basin,False
+63040A,11.6732971,77.1300621,16.Erode,Dug Well,Outside Basin,False
+63041,11.747214,76.926585,16.Erode,Dug Well,Outside Basin,False
+63042,11.780556,77.022222,16.Erode,Dug Well,Outside Basin,False
+63042 A,11.7757137,77.02328459999998,16.Erode,Dug Well,Outside Basin,False
+63043,11.4495485,77.2708664,16.Erode,Dug Well,Sathyamangalam,True
+63044,11.3709671,77.3527095,16.Erode,Dug Well,Nambiyur,True
+63045,11.3949085,77.3017482,16.Erode,Dug Well,Nambiyur,True
+63046,11.457322,77.33416599999998,16.Erode,Dug Well,T.N. Palayam,True
+63047,11.50051,77.30945099999998,16.Erode,Dug Well,T.N. Palayam,True
+63101,11.4097722,77.60083299999998,16.Erode,Dug Well,Bhavani,True
+63102,11.4591667,77.51119,16.Erode,Dug Well,Bhavani,True
+63103,11.495793,77.55457099999998,16.Erode,Dug Well,Anthiyur,True
+63104,11.4262451,77.5603485,16.Erode,Dug Well,Bhavani,True
+63105,11.468539,77.6453158,16.Erode,Dug Well,Bhavani,True
+63106,11.430201,77.64262999999998,16.Erode,Dug Well,Bhavani,True
+63107,11.476424,77.66832719999998,16.Erode,Dug Well,Bhavani,True
+63108,11.4488852,77.682423,16.Erode,Dug Well,Bhavani,True
+63109,11.5230556,77.5116667,16.Erode,Dug Well,Anthiyur,True
+63110,11.537027,77.54863799999998,16.Erode,Dug Well,Anthiyur,True
+63111,11.545855,77.581567,16.Erode,Dug Well,Anthiyur,True
+63112,11.5718648,77.5789135,16.Erode,Dug Well,Anthiyur,True
+63113,11.5486111,77.61333,16.Erode,Dug Well,Anthiyur,True
+63114,11.545833,77.613889,16.Erode,Dug Well,Ammapet,True
+63114A,11.6018225,77.630976,16.Erode,Dug Well,Outside Basin,False
+63115,11.509722,77.638889,16.Erode,Dug Well,Bhavani,True
+63116,11.5364898,77.66859739999998,16.Erode,Dug Well,Outside Basin,False
+63117,11.5137892,77.7013021,16.Erode,Dug Well,Outside Basin,False
+63118,11.5427202,77.72498299999998,16.Erode,Dug Well,Outside Basin,False
+63119,11.596401,77.58704799999998,16.Erode,Dug Well,Anthiyur,True
+63120,11.6325,77.58583299999998,16.Erode,Dug Well,Anthiyur,True
+63121,11.619444,77.63472199999998,16.Erode,Dug Well,Outside Basin,False
+63121A,11.6178719,77.6319548,16.Erode,Dug Well,Outside Basin,False
+63122,11.634722,77.654167,16.Erode,Dug Well,Outside Basin,False
+63122 A,11.6363234,77.6391148,16.Erode,Dug Well,Outside Basin,False
+63123,11.591873,77.665908,16.Erode,Dug Well,Outside Basin,False
+63124,11.6078349,77.70106599999998,16.Erode,Dug Well,Outside Basin,False
+63125,11.5973079,77.7296493,16.Erode,Dug Well,Outside Basin,False
+63126,11.6202468,77.74063169999998,16.Erode,Dug Well,Outside Basin,False
+63126 A,11.62253,77.74297,16.Erode,Dug Well,Outside Basin,False
+63127,11.6571796,77.7582466,16.Erode,Dug Well,Outside Basin,False
+63128,11.7002328,77.67778819999998,16.Erode,Dug Well,Outside Basin,False
+63129,11.488152,77.61970599999998,16.Erode,Dug Well,Bhavani,True
+63130,11.4934437,77.7037971,16.Erode,Dug Well,Outside Basin,False
+63131,11.739444,77.6916667,16.Erode,Dug Well,Outside Basin,False
+63132,11.523611,77.580556,16.Erode,Dug Well,Anthiyur,True
+63132A,11.51305556,77.5875,16.Erode,Dug Well,Anthiyur,True
+63133,11.6458313,77.5932497,16.Erode,Dug Well,Anthiyur,True
+63134,11.633333,77.698333,16.Erode,Dug Well,Outside Basin,False
+63135,11.621111,77.61916669999998,16.Erode,Dug Well,Outside Basin,False
+63202,11.0757695,77.832429,16.Erode,Dug Well,Outside Basin,False
+63203,11.07778,77.88639,16.Erode,Dug Well,Outside Basin,False
+63214,11.1244237,77.8113675,16.Erode,Dug Well,Outside Basin,False
+63215,11.1572,77.81669999999998,16.Erode,Dug Well,Outside Basin,False
+63216,11.1287756,77.8771088,16.Erode,Dug Well,Outside Basin,False
+63223,11.226934,77.581776,16.Erode,Dug Well,Outside Basin,False
+63224,11.1951,77.631,16.Erode,Dug Well,Outside Basin,False
+63225,11.238333,77.636667,16.Erode,Dug Well,Outside Basin,False
+63225 A,11.2383996,77.6643406,16.Erode,Dug Well,Outside Basin,False
+63226,11.227222,77.718056,16.Erode,Dug Well,Outside Basin,False
+63226 A,11.2343762,77.7196332,16.Erode,Dug Well,Outside Basin,False
+63227,11.1894354,77.77076069999998,16.Erode,Dug Well,Outside Basin,False
+63228,11.2349991,77.7778861,16.Erode,Dug Well,Outside Basin,False
+63229,11.22194,77.84055999999998,16.Erode,Dug Well,Outside Basin,False
+63230,11.1758,77.8597,16.Erode,Dug Well,Outside Basin,False
+63231,11.2724,77.4049,19.Tiruppur,Dug Well,Outside Basin,False
+63231_ERD,11.2724415,77.404905,19.Tiruppur,Dug Well,Outside Basin,False
+63232,11.272222,77.4225,19.Tiruppur,Dug Well,Outside Basin,False
+63232_ERD,11.2723573,77.4225546,19.Tiruppur,Dug Well,Outside Basin,False
+63233,11.324926,77.487246,16.Erode,Dug Well,Perundurai,True
+63234,11.282375,77.504457,16.Erode,Dug Well,Perundurai,True
+63235,11.273611,77.529167,16.Erode,Dug Well,Perundurai,True
+63235 A,11.278409,77.52037699999998,16.Erode,Dug Well,Perundurai,True
+63236,11.276389,77.58333299999998,16.Erode,Dug Well,Outside Basin,False
+63236 A,11.2763537,77.58490659999998,16.Erode,Dug Well,Outside Basin,False
+63237,11.2956,77.6559,16.Erode,Dug Well,Outside Basin,False
+63238,11.3304484,77.6806313,16.Erode,Dug Well,Outside Basin,False
+63239,11.29167,77.69417,16.Erode,Dug Well,Outside Basin,False
+63240,11.269444,77.723056,16.Erode,Dug Well,Outside Basin,False
+63240 A,11.27173,77.727338,16.Erode,Dug Well,Outside Basin,False
+63241,11.32583,77.7325,16.Erode,Dug Well,Outside Basin,False
+63242,11.3169,77.7522,16.Erode,Dug Well,Outside Basin,False
+63243,11.342556,77.536795,16.Erode,Dug Well,Perundurai,True
+63244,11.36667,77.598048,16.Erode,Dug Well,Perundurai,True
+63245,11.338613,77.636712,16.Erode,Dug Well,Outside Basin,False
+63246,11.3949125,77.6605546,16.Erode,Dug Well,Outside Basin,False
+63247,11.369444,77.726389,16.Erode,Dug Well,Outside Basin,False
+63247 (A),11.3519444,77.7125,16.Erode,Dug Well,Outside Basin,False
+63248,11.4354746,77.6698021,16.Erode,Dug Well,Outside Basin,False
+63249,11.1655529,77.700973,16.Erode,Dug Well,Outside Basin,False
+63250,11.1365639,77.7651572,16.Erode,Dug Well,Outside Basin,False
+63250A,11.13455556,77.76574999999998,16.Erode,Dug Well,Outside Basin,False
+63251,11.0736111,77.8388888,16.Erode,Dug Well,Outside Basin,False
+63252,11.11167,77.85555999999998,16.Erode,Dug Well,Outside Basin,False
+63253,11.1947,77.69029999999998,16.Erode,Dug Well,Outside Basin,False
+63254,11.1483,77.78499999999998,16.Erode,Dug Well,Outside Basin,False
+63255,11.2744,77.80079999999998,16.Erode,Dug Well,Outside Basin,False
+63256,11.2304626,77.6897349,16.Erode,Dug Well,Outside Basin,False
+63257,11.1555804,77.72234039999998,16.Erode,Dug Well,Outside Basin,False
+63306,11.1778,76.8306,18.Coimbatore,Dug Well,Outside Basin,False
+63306A,11.178453,76.83041699999998,18.Coimbatore,Dug Well,Outside Basin,False
+63307,11.2085503,76.8696894,18.Coimbatore,Dug Well,Outside Basin,False
+63308,11.233988,76.906304,18.Coimbatore,Dug Well,Outside Basin,False
+63309,11.2333,76.9611,18.Coimbatore,Dug Well,Outside Basin,False
+63309A,11.244427,76.95766,18.Coimbatore,Dug Well,Outside Basin,False
+63316,11.2444,76.95749999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63316A,11.284286,76.88539299999998,18.Coimbatore,Dug Well,Outside Basin,False
+63318,11.273049,76.992547,18.Coimbatore,Dug Well,Outside Basin,False
+63319,11.3319,77.0083,18.Coimbatore,Dug Well,Outside Basin,False
+63319A,11.3128908,77.00974449999998,18.Coimbatore,Dug Well,Outside Basin,False
+63320,11.259013,77.038774,18.Coimbatore,Dug Well,Outside Basin,False
+63321,11.325734,77.076582,18.Coimbatore,Dug Well,Outside Basin,False
+63323,11.294575,77.164838,19.Tiruppur,Dug Well,Avinashi,True
+63324,11.277095,77.205197,19.Tiruppur,Dug Well,Avinashi,True
+63325,11.314744,77.28651999999998,19.Tiruppur,Dug Well,Avinashi,True
+63326,11.3458823,77.094626,18.Coimbatore,Dug Well,Karamadai,True
+63327,11.3821,77.10989999999998,18.Coimbatore,Dug Well,Karamadai,True
+63328,11.336615,77.228408,19.Tiruppur,Dug Well,Avinashi,True
+63329,11.152434,77.213644,19.Tiruppur,Dug Well,Outside Basin,False
+63330,11.21866,77.155326,19.Tiruppur,Dug Well,Outside Basin,False
+63331,11.2125,77.1875,19.Tiruppur,Dug Well,Outside Basin,False
+63332,11.263951,77.221726,19.Tiruppur,Dug Well,Outside Basin,False
+63333,11.247059,77.237059,19.Tiruppur,Dug Well,Outside Basin,False
+63334,11.188056,77.27166699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63335,11.236129,77.31715599999998,19.Tiruppur,Dug Well,Outside Basin,False
+63336,11.227731,77.282189,19.Tiruppur,Dug Well,Outside Basin,False
+63337,11.129039,77.280641,19.Tiruppur,Dug Well,Outside Basin,False
+63338,11.249115,77.179163,19.Tiruppur,Dug Well,Outside Basin,False
+63339,11.199167,77.30638899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63340,11.273444,77.280794,19.Tiruppur,Dug Well,Outside Basin,False
+63341,11.218056,77.190129,19.Tiruppur,Dug Well,Outside Basin,False
+63342,11.094794,77.26980299999998,19.Tiruppur,Dug Well,Outside Basin,False
+63343,11.151733,77.30939999999998,19.Tiruppur,Dug Well,Outside Basin,False
+63344,11.200041,77.36955899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63345,11.042438,77.39338499999998,19.Tiruppur,Dug Well,Outside Basin,False
+63346,11.085523,77.444006,19.Tiruppur,Dug Well,Outside Basin,False
+63347,11.101457,77.39150999999998,19.Tiruppur,Dug Well,Outside Basin,False
+63348,10.970488,77.435113,19.Tiruppur,Dug Well,Outside Basin,False
+63349,11.008611,77.441111,19.Tiruppur,Dug Well,Outside Basin,False
+63350,11.093634,77.314957,19.Tiruppur,Dug Well,Outside Basin,False
+63351,11.166111,77.33416699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63352,11.009932,77.373666,19.Tiruppur,Dug Well,Outside Basin,False
+63353,11.076983,77.28805599999998,19.Tiruppur,Dug Well,Outside Basin,False
+63354,11.183889,77.362778,19.Tiruppur,Dug Well,Outside Basin,False
+63355,11.013889,77.46944399999998,19.Tiruppur,Dug Well,Outside Basin,False
+63356_TPR,11.11694,77.37417,19.Tiruppur,Dug Well,Outside Basin,False
+63357,11.161019,77.373986,19.Tiruppur,Dug Well,Outside Basin,False
+63358,11.024444,77.414444,19.Tiruppur,Dug Well,Outside Basin,False
+63359,11.003611,77.431111,19.Tiruppur,Dug Well,Outside Basin,False
+63360,11.266944,77.364722,19.Tiruppur,Dug Well,Outside Basin,False
+63401,10.81861111,77.27472222,18.Coimbatore,Dug Well,Outside Basin,False
+63402,10.87916667,77.15361111,18.Coimbatore,Dug Well,Outside Basin,False
+63403,10.8925,77.22222222,19.Tiruppur,Dug Well,Outside Basin,False
+63404,10.83444444,77.22722222,18.Coimbatore,Dug Well,Outside Basin,False
+63405,10.874181,77.283249,19.Tiruppur,Dug Well,Outside Basin,False
+63406,10.89194444,77.34833333,19.Tiruppur,Dug Well,Outside Basin,False
+63411,10.93444444,77.21833332999998,19.Tiruppur,Dug Well,Outside Basin,False
+63413,10.934453,77.277282,19.Tiruppur,Dug Well,Outside Basin,False
+63416,10.9375,77.33638888999998,19.Tiruppur,Dug Well,Outside Basin,False
+63417,10.973573,77.37064599999998,19.Tiruppur,Dug Well,Outside Basin,False
+63418,10.923723,77.409778,19.Tiruppur,Dug Well,Outside Basin,False
+63420,10.944444,77.438889,19.Tiruppur,Dug Well,Outside Basin,False
+63420-A,10.9435134,77.4390882,19.Tiruppur,Dug Well,Outside Basin,False
+63421,11.0149432,77.18789739999998,19.Tiruppur,Dug Well,Outside Basin,False
+63422,10.97974,77.32194699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63423,10.998512,77.2719852,19.Tiruppur,Dug Well,Outside Basin,False
+63424,10.95861111,77.24055556,19.Tiruppur,Dug Well,Outside Basin,False
+63425,10.954728,77.294163,19.Tiruppur,Dug Well,Outside Basin,False
+63426,10.912925,77.333444,19.Tiruppur,Dug Well,Outside Basin,False
+63427,10.9704905,77.3739164,19.Tiruppur,Dug Well,Outside Basin,False
+63428,10.9111,77.39579999999998,19.Tiruppur,Dug Well,Outside Basin,False
+63429,11.033333,77.336111,19.Tiruppur,Dug Well,Outside Basin,False
+63429-A,11.034947,77.338491,19.Tiruppur,Dug Well,Outside Basin,False
+63430,11.05655,77.3093115,19.Tiruppur,Dug Well,Outside Basin,False
+63431,10.915,77.26361111,19.Tiruppur,Dug Well,Outside Basin,False
+63432,11.020831,77.209157,19.Tiruppur,Dug Well,Outside Basin,False
+63433,11.0273148,77.2916945,19.Tiruppur,Dug Well,Outside Basin,False
+63434,11.037214,77.246059,19.Tiruppur,Dug Well,Outside Basin,False
+63435,11.058876,77.26601999999998,19.Tiruppur,Dug Well,Outside Basin,False
+63436,11.1808745,77.14236219999998,18.Coimbatore,Dug Well,Outside Basin,False
+63437,11.1474006,77.165114,18.Coimbatore,Dug Well,Outside Basin,False
+63438,11.1111,77.17919999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63438-A,11.1136991,77.1761032,18.Coimbatore,Dug Well,Outside Basin,False
+63439,11.004213,77.06477099999998,18.Coimbatore,Dug Well,Outside Basin,False
+63440,11.0251246,77.1184934,18.Coimbatore,Dug Well,Outside Basin,False
+63441,10.9473628,77.1612782,18.Coimbatore,Dug Well,Outside Basin,False
+63442,10.954005,77.085809,18.Coimbatore,Dug Well,Outside Basin,False
+63443,10.87638889,77.1275,18.Coimbatore,Dug Well,Outside Basin,False
+63444,11.13416667,77.14444444,18.Coimbatore,Dug Well,Outside Basin,False
+63445,10.9779117,77.16116649999998,18.Coimbatore,Dug Well,Outside Basin,False
+63446,11.0832867,77.1745779,18.Coimbatore,Dug Well,Outside Basin,False
+63447,11.0320901,77.1598403,18.Coimbatore,Dug Well,Outside Basin,False
+63448,11.077208,77.215446,19.Tiruppur,Dug Well,Outside Basin,False
+63449,10.80388889,77.23749999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63450,10.900969,77.122877,18.Coimbatore,Dug Well,Outside Basin,False
+63451,10.84777778,77.275,18.Coimbatore,Dug Well,Outside Basin,False
+63452,10.957264,77.10141199999998,18.Coimbatore,Dug Well,Outside Basin,False
+63453,10.901517,77.07594799999998,18.Coimbatore,Dug Well,Outside Basin,False
+63454,10.86361111,77.17194444,18.Coimbatore,Dug Well,Outside Basin,False
+63455,10.83138889,77.19361111,18.Coimbatore,Dug Well,Outside Basin,False
+63456,11.0791598,77.17665809999998,18.Coimbatore,Dug Well,Outside Basin,False
+63501,10.7118952,77.32770669999998,19.Tiruppur,Dug Well,Outside Basin,False
+63502,10.685651,77.355483,19.Tiruppur,Dug Well,Outside Basin,False
+63503,10.697768,77.390065,19.Tiruppur,Dug Well,Outside Basin,False
+63504,10.722776,77.45892499999998,19.Tiruppur,Dug Well,Outside Basin,False
+63505,10.671828,77.480862,19.Tiruppur,Dug Well,Outside Basin,False
+63506,10.731937,77.52591599999998,19.Tiruppur,Dug Well,Outside Basin,False
+63507,10.674125,77.539293,19.Tiruppur,Dug Well,Outside Basin,False
+63508,10.703814,77.596562,19.Tiruppur,Dug Well,Outside Basin,False
+63509,10.701378,77.64403799999998,19.Tiruppur,Dug Well,Outside Basin,False
+63510,10.773616,77.31450599999998,19.Tiruppur,Dug Well,Outside Basin,False
+63511,10.765186,77.37599299999998,19.Tiruppur,Dug Well,Outside Basin,False
+63512,10.804128,77.377224,19.Tiruppur,Dug Well,Outside Basin,False
+63513,10.774814,77.45288499999998,19.Tiruppur,Dug Well,Outside Basin,False
+63514,10.820605,77.47776,19.Tiruppur,Dug Well,Outside Basin,False
+63515,10.775995,77.49902799999998,19.Tiruppur,Dug Well,Outside Basin,False
+63516,10.784576,77.527831,19.Tiruppur,Dug Well,Outside Basin,False
+63517,10.75905,77.584075,19.Tiruppur,Dug Well,Outside Basin,False
+63518,10.832665,77.58672099999998,19.Tiruppur,Dug Well,Outside Basin,False
+63519,10.814799,77.628721,19.Tiruppur,Dug Well,Outside Basin,False
+63520,10.767893,77.666589,19.Tiruppur,Dug Well,Outside Basin,False
+63521,10.827732,77.67693699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63522,10.792319,77.70757899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63523,10.7559969,77.72661689999998,19.Tiruppur,Dug Well,Outside Basin,False
+63524,10.762576,77.78166899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63525,10.812669,77.78438199999998,19.Tiruppur,Dug Well,Outside Basin,False
+63526,10.835469,77.83507,19.Tiruppur,Dug Well,Outside Basin,False
+63527,10.797866,77.855491,19.Tiruppur,Dug Well,Outside Basin,False
+63528,10.845087,77.304091,19.Tiruppur,Dug Well,Outside Basin,False
+63529,10.82665,77.371876,19.Tiruppur,Dug Well,Outside Basin,False
+63530,10.848238,77.447097,19.Tiruppur,Dug Well,Outside Basin,False
+63530A,10.854163,77.445445,19.Tiruppur,Dug Well,Outside Basin,False
+63531,10.8829492,77.4908103,19.Tiruppur,Dug Well,Outside Basin,False
+63532,10.894144,77.526127,19.Tiruppur,Dug Well,Outside Basin,False
+63533,10.838916,77.54742299999998,19.Tiruppur,Dug Well,Outside Basin,False
+63534,10.877986,77.601123,19.Tiruppur,Dug Well,Outside Basin,False
+63534 A,10.879282,77.596225,19.Tiruppur,Dug Well,Outside Basin,False
+63535,10.868711,77.652499,19.Tiruppur,Dug Well,Outside Basin,False
+63536,10.843406,77.74249899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63537,10.905507,77.74535799999998,19.Tiruppur,Dug Well,Outside Basin,False
+63538,10.854487,77.80686199999998,19.Tiruppur,Dug Well,Outside Basin,False
+63538A,10.835354,77.81094899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63539,10.9213695,77.451729,19.Tiruppur,Dug Well,Outside Basin,False
+63540,10.9869587,77.5177104,19.Tiruppur,Dug Well,Outside Basin,False
+63541,10.9623,77.64641299999998,19.Tiruppur,Dug Well,Outside Basin,False
+63542,10.945833,77.715935,19.Tiruppur,Dug Well,Outside Basin,False
+63543,10.840958,77.63435099999998,19.Tiruppur,Dug Well,Outside Basin,False
+63544,10.8314171,77.7208511,19.Tiruppur,Dug Well,Outside Basin,False
+63545,10.708505,77.554895,19.Tiruppur,Dug Well,Outside Basin,False
+63546,10.705959,77.458167,19.Tiruppur,Dug Well,Outside Basin,False
+63547,10.804682,77.5571,19.Tiruppur,Dug Well,Outside Basin,False
+63548,10.7209,77.65821699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63549,10.768122,77.40911199999998,19.Tiruppur,Dug Well,Outside Basin,False
+63550,10.676538,77.74213899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63551,10.778783,77.59166399999998,19.Tiruppur,Dug Well,Outside Basin,False
+63552,10.739443,77.639432,19.Tiruppur,Dug Well,Outside Basin,False
+63553,10.752376,77.342231,19.Tiruppur,Dug Well,Outside Basin,False
+63554,10.632848,77.419983,19.Tiruppur,Dug Well,Outside Basin,False
+63555,10.633928,77.53785899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63556,10.893929,77.41020899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63557,10.820738,77.50651,19.Tiruppur,Dug Well,Outside Basin,False
+63558,10.856736,77.407855,19.Tiruppur,Dug Well,Outside Basin,False
+63559,10.667455,77.736776,19.Tiruppur,Dug Well,Outside Basin,False
+63560,10.984157,77.591447,19.Tiruppur,Dug Well,Outside Basin,False
+63561,11.061635,77.668847,19.Tiruppur,Dug Well,Outside Basin,False
+63562,11.029231,77.529452,19.Tiruppur,Dug Well,Outside Basin,False
+63563,10.896261,77.643844,19.Tiruppur,Dug Well,Outside Basin,False
+63564,10.972154,77.652986,19.Tiruppur,Dug Well,Outside Basin,False
+63565,11.026971,77.78258499999998,19.Tiruppur,Dug Well,Outside Basin,False
+63566,10.916678,77.583267,19.Tiruppur,Dug Well,Outside Basin,False
+63567,10.884872,77.547138,19.Tiruppur,Dug Well,Outside Basin,False
+63568,11.064038,77.489731,19.Tiruppur,Dug Well,Outside Basin,False
+63568A,11.058788,77.49078299999998,19.Tiruppur,Dug Well,Outside Basin,False
+63569,11.087469,77.662856,19.Tiruppur,Dug Well,Outside Basin,False
+63570,11.054793,77.61709999999998,19.Tiruppur,Dug Well,Outside Basin,False
+63571,11.07291,77.606385,19.Tiruppur,Dug Well,Outside Basin,False
+63572,11.02578,77.671727,19.Tiruppur,Dug Well,Outside Basin,False
+63573,11.044815,77.735376,19.Tiruppur,Dug Well,Outside Basin,False
+63574,11.078047,77.742734,19.Tiruppur,Dug Well,Outside Basin,False
+63575,11.07,77.81111099999998,19.Tiruppur,Dug Well,Outside Basin,False
+63576,11.032464,77.536733,19.Tiruppur,Dug Well,Outside Basin,False
+63577,11.031405,77.56907699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63578,11.086209,77.528346,19.Tiruppur,Dug Well,Outside Basin,False
+63579,11.024174,77.630706,19.Tiruppur,Dug Well,Outside Basin,False
+63580,10.945472,77.717056,19.Tiruppur,Dug Well,Outside Basin,False
+63581,11.005856,77.56030199999998,19.Tiruppur,Dug Well,Outside Basin,False
+63582,10.9606468,77.57368099999998,19.Tiruppur,Dug Well,Outside Basin,False
+63583,10.951348,77.603858,19.Tiruppur,Dug Well,Outside Basin,False
+63584,10.921377,77.598042,19.Tiruppur,Dug Well,Outside Basin,False
+63585,10.936593,77.652851,19.Tiruppur,Dug Well,Outside Basin,False
+63586,10.916808,77.68485099999998,19.Tiruppur,Dug Well,Outside Basin,False
+63587,10.897284,77.671025,19.Tiruppur,Dug Well,Outside Basin,False
+63588,10.888194,77.71946079999998,19.Tiruppur,Dug Well,Outside Basin,False
+63589,11.086745,77.4757,19.Tiruppur,Dug Well,Outside Basin,False
+63589A,11.091445,77.50854099999998,19.Tiruppur,Dug Well,Outside Basin,False
+63590,10.986881,77.691184,19.Tiruppur,Dug Well,Outside Basin,False
+63591,10.893521,77.754036,19.Tiruppur,Dug Well,Outside Basin,False
+63592,10.878477,77.74285,19.Tiruppur,Dug Well,Outside Basin,False
+63593,11.007468,77.75604,19.Tiruppur,Dug Well,Outside Basin,False
+63594,10.916313,77.48634199999998,19.Tiruppur,Dug Well,Outside Basin,False
+63594A,10.92625,77.48326799999998,19.Tiruppur,Dug Well,Outside Basin,False
+63595,10.975194,77.51307699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63596,10.930759,77.53295699999998,19.Tiruppur,Dug Well,Outside Basin,False
+63603A,11.178851,76.9890719999999,18.Coimbatore,Dug Well,Outside Basin,False
+63604,11.196642,76.960267,18.Coimbatore,Dug Well,Outside Basin,False
+63605,11.151946,76.94450899999998,18.Coimbatore,Dug Well,Outside Basin,False
+63608,11.0872222,76.84916667,18.Coimbatore,Dug Well,Outside Basin,False
+63613,10.9236,76.94719999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63613A,10.962656,76.973027,18.Coimbatore,Dug Well,Outside Basin,False
+63614,10.839584,76.8811,18.Coimbatore,Dug Well,Outside Basin,False
+63615,10.858101,76.961314,18.Coimbatore,Dug Well,Outside Basin,False
+63616,10.951789,76.782392,18.Coimbatore,Dug Well,Outside Basin,False
+63617,10.951411,76.787253,18.Coimbatore,Dug Well,Outside Basin,False
+63618,10.9619,76.816097,18.Coimbatore,Dug Well,Outside Basin,False
+63619,10.93638889,76.85527777999998,18.Coimbatore,Dug Well,Outside Basin,False
+63620,10.9722,76.94029999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63621,10.866282,76.877144,18.Coimbatore,Dug Well,Outside Basin,False
+63622,10.88379,76.952599,18.Coimbatore,Dug Well,Outside Basin,False
+63623,10.8722,77.02559999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63623-A,10.872148,77.025571,18.Coimbatore,Dug Well,Outside Basin,False
+63624,10.915501,77.038742,18.Coimbatore,Dug Well,Outside Basin,False
+63625,10.979681,77.02733499999998,18.Coimbatore,Dug Well,Outside Basin,False
+63626,10.874863,77.00538799999998,18.Coimbatore,Dug Well,Outside Basin,False
+63627,10.890518,76.905152,18.Coimbatore,Dug Well,Outside Basin,False
+63628,10.896444,76.93420399999998,18.Coimbatore,Dug Well,Outside Basin,False
+63629,10.975888,76.995867,18.Coimbatore,Dug Well,Outside Basin,False
+63630,10.940839,76.727356,18.Coimbatore,Dug Well,Outside Basin,False
+63631,10.96277778,76.93111111,18.Coimbatore,Dug Well,Outside Basin,False
+63632,11.026471,76.905614,18.Coimbatore,Dug Well,Outside Basin,False
+63633,10.9975,76.89638888999998,18.Coimbatore,Dug Well,Outside Basin,False
+63634,11.175187,77.05755999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63635,11.232472,77.10207099999998,18.Coimbatore,Dug Well,Outside Basin,False
+63636,11.20874,77.07065,18.Coimbatore,Dug Well,Outside Basin,False
+63637,11.12416667,77.0925,18.Coimbatore,Dug Well,Outside Basin,False
+63638,11.0783333,76.903333,18.Coimbatore,Dug Well,Outside Basin,False
+63639,11.150378,76.90407299999998,18.Coimbatore,Dug Well,Outside Basin,False
+63640,11.05067,77.041921,18.Coimbatore,Dug Well,Outside Basin,False
+63641,11.0708,76.9569,18.Coimbatore,Dug Well,Outside Basin,False
+63641-A,11.07305556,76.95555559999998,18.Coimbatore,Dug Well,Outside Basin,False
+63642,11.068833,77.00270999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63643,11.111997,77.027274,18.Coimbatore,Dug Well,Outside Basin,False
+63644,11.127317,76.979743,18.Coimbatore,Dug Well,Outside Basin,False
+63645,11.17427,77.040225,18.Coimbatore,Dug Well,Outside Basin,False
+63646,11.235077,77.103682,18.Coimbatore,Dug Well,Outside Basin,False
+63647,11.228027,77.029116,18.Coimbatore,Dug Well,Outside Basin,False
+63648,11.268121,77.09811899999998,18.Coimbatore,Dug Well,Outside Basin,False
+63649,11.222094,76.961132,18.Coimbatore,Dug Well,Outside Basin,False
+63650,11.08,76.8236,18.Coimbatore,Dug Well,Outside Basin,False
+63650-A,11.0833333,76.84861110999998,18.Coimbatore,Dug Well,Outside Basin,False
+63651,11.114529,76.92499599999998,18.Coimbatore,Dug Well,Outside Basin,False
+63652,11.094513,77.07096799999998,18.Coimbatore,Dug Well,Outside Basin,False
+63653,11.312409,77.002654,18.Coimbatore,Dug Well,Outside Basin,False
+63654,11.2564,76.88809999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63654A,11.256288,76.88755999999998,18.Coimbatore,Dug Well,Outside Basin,False
+63655_C,11.36255,77.060922,18.Coimbatore,Dug Well,Outside Basin,False
+63656,11.294817,76.979887,18.Coimbatore,Dug Well,Outside Basin,False
+63657,11.307927,76.976139,18.Coimbatore,Dug Well,Outside Basin,False
+63658,11.206779,76.82660699999998,18.Coimbatore,Dug Well,Outside Basin,False
+63702,10.80111111,77.10002778,18.Coimbatore,Dug Well,Outside Basin,False
+63703,10.80972222,77.14416667,18.Coimbatore,Dug Well,Outside Basin,False
+63704,10.8239,76.9897,18.Coimbatore,Dug Well,Outside Basin,False
+63704A,10.74361111,77.10194443999998,18.Coimbatore,Dug Well,Outside Basin,False
+63705,10.672278,77.116237,18.Coimbatore,Dug Well,Outside Basin,False
+63706,10.624296,77.14981,18.Coimbatore,Dug Well,Outside Basin,False
+63707,10.661111,77.055,18.Coimbatore,Dug Well,Outside Basin,False
+63708,10.677975,77.033428,18.Coimbatore,Dug Well,Outside Basin,False
+63709,10.6510099,76.98766779999998,18.Coimbatore,Dug Well,Outside Basin,False
+63710,10.6353209,76.9410577,18.Coimbatore,Dug Well,Outside Basin,False
+63711,10.8777,77.2959,18.Coimbatore,Dug Well,Outside Basin,False
+63711A,10.590798,76.845777,18.Coimbatore,Dug Well,Outside Basin,False
+63712,10.588356,76.936304,18.Coimbatore,Dug Well,Outside Basin,False
+63713,10.5131283,76.8826217,18.Coimbatore,Dug Well,Outside Basin,False
+63714,10.54694444,76.98388889,18.Coimbatore,Dug Well,Outside Basin,False
+63715,10.547475,77.04483299999998,18.Coimbatore,Dug Well,Outside Basin,False
+63716,10.678145,76.936718,18.Coimbatore,Dug Well,Outside Basin,False
+63717,10.693846,76.878259,18.Coimbatore,Dug Well,Outside Basin,False
+63718,10.735024,76.961749,18.Coimbatore,Dug Well,Outside Basin,False
+63719,10.816361,77.01724,18.Coimbatore,Dug Well,Outside Basin,False
+63720,10.693179,76.894424,18.Coimbatore,Dug Well,Outside Basin,False
+63721,10.55166667,76.98444444,18.Coimbatore,Dug Well,Outside Basin,False
+63722,10.501546,76.987857,18.Coimbatore,Dug Well,Outside Basin,False
+63723,10.5482133,77.04943029999998,18.Coimbatore,Dug Well,Outside Basin,False
+63724,10.631621,77.15980899999998,18.Coimbatore,Dug Well,Outside Basin,False
+63725,10.609725,77.128803,18.Coimbatore,Dug Well,Outside Basin,False
+63726,10.578214,77.045778,18.Coimbatore,Dug Well,Outside Basin,False
+63727,10.6217206,77.1109416,18.Coimbatore,Dug Well,Outside Basin,False
+63728,10.67745,76.96952299999998,18.Coimbatore,Dug Well,Outside Basin,False
+63729,10.70166667,76.95361110999998,18.Coimbatore,Dug Well,Outside Basin,False
+63730,10.542095,76.920743,18.Coimbatore,Dug Well,Outside Basin,False
+63731,10.6232184,77.0755384,18.Coimbatore,Dug Well,Outside Basin,False
+63732,10.609242,76.880678,18.Coimbatore,Dug Well,Outside Basin,False
+63733,10.60333333,77.01527778,18.Coimbatore,Dug Well,Outside Basin,False
+63734,10.810981,76.945216,18.Coimbatore,Dug Well,Outside Basin,False
+63735,10.815822,76.98035199999998,18.Coimbatore,Dug Well,Outside Basin,False
+63736,10.791929,76.940849,18.Coimbatore,Dug Well,Outside Basin,False
+63737,10.741839,76.98640299999998,18.Coimbatore,Dug Well,Outside Basin,False
+63738,10.703953,77.056427,18.Coimbatore,Dug Well,Outside Basin,False
+63739,10.73555,77.089033,18.Coimbatore,Dug Well,Outside Basin,False
+63740,10.667519,77.018657,18.Coimbatore,Dug Well,Outside Basin,False
+63741,10.693776,76.99218,18.Coimbatore,Dug Well,Outside Basin,False
+63742,10.8725,77.0625,18.Coimbatore,Dug Well,Outside Basin,False
+63743,10.7473949,77.0076854,18.Coimbatore,Dug Well,Outside Basin,False
+63744,10.8411,77.1233,18.Coimbatore,Dug Well,Outside Basin,False
+63745,10.83583333,77.08222222,18.Coimbatore,Dug Well,Outside Basin,False
+63746,10.84111111,77.1225,18.Coimbatore,Dug Well,Outside Basin,False
+63801,10.7293733,77.1702647,19.Tiruppur,Dug Well,Outside Basin,False
+63802,10.7342187,77.2453648,19.Tiruppur,Dug Well,Outside Basin,False
+63803,10.739644,77.275796,19.Tiruppur,Dug Well,Outside Basin,False
+63804,10.7398701,77.27542889999998,19.Tiruppur,Dug Well,Outside Basin,False
+63804A,10.695376,77.2816004,19.Tiruppur,Dug Well,Outside Basin,False
+63805,10.640245,77.267218,19.Tiruppur,Dug Well,Outside Basin,False
+63806,10.6782705,77.2026103,19.Tiruppur,Dug Well,Outside Basin,False
+63807,10.6751786,77.1612782,19.Tiruppur,Dug Well,Outside Basin,False
+63808,10.548656,77.089865,19.Tiruppur,Dug Well,Outside Basin,False
+63809,10.554167,77.119444,19.Tiruppur,Dug Well,Outside Basin,False
+63809 A,10.554618,77.1379103,19.Tiruppur,Dug Well,Outside Basin,False
+63810,10.592405,77.201604,19.Tiruppur,Dug Well,Outside Basin,False
+63811,10.57583333,77.23944444,19.Tiruppur,Dug Well,Outside Basin,False
+63812,10.5246165,77.2126715,19.Tiruppur,Dug Well,Outside Basin,False
+63812A,10.528045,77.212078,19.Tiruppur,Dug Well,Outside Basin,False
+63813,10.511341,77.189649,19.Tiruppur,Dug Well,Outside Basin,False
+63814,10.508912,77.22740899999998,19.Tiruppur,Dug Well,Outside Basin,False
+63815,10.4702365,77.23853939999998,19.Tiruppur,Dug Well,Outside Basin,False
+63816,10.4988524,77.29061729999998,19.Tiruppur,Dug Well,Outside Basin,False
+63817A,10.488604,77.35562,19.Tiruppur,Dug Well,Outside Basin,False
+63818A,10.533907,77.35966399999998,19.Tiruppur,Dug Well,Outside Basin,False
+63819,10.624558,77.37462429999998,19.Tiruppur,Dug Well,Outside Basin,False
+63820A,10.626085,77.32948,19.Tiruppur,Dug Well,Outside Basin,False
+63821,10.5795497,77.3010301,19.Tiruppur,Dug Well,Outside Basin,False
+63822,10.775,77.18416666999998,19.Tiruppur,Dug Well,Outside Basin,False
+63823,10.598543,77.3181919,19.Tiruppur,Dug Well,Outside Basin,False
+63824,10.7406,77.30889999999998,19.Tiruppur,Dug Well,Outside Basin,False
+63825,10.6326342,77.24177249999998,19.Tiruppur,Dug Well,Outside Basin,False
+63826,10.6045129,77.37741889999998,19.Tiruppur,Dug Well,Outside Basin,False
+63827,10.4856114,77.29528519999998,19.Tiruppur,Dug Well,Outside Basin,False
+63828,10.5542121,77.2680223,19.Tiruppur,Dug Well,Outside Basin,False
+63829,10.435028,77.290588,19.Tiruppur,Dug Well,Outside Basin,False
+63830,10.5437332,77.2458392,19.Tiruppur,Dug Well,Outside Basin,False
+63831,10.532232,77.155967,19.Tiruppur,Dug Well,Outside Basin,False
+63832,10.5475062,77.1832335,19.Tiruppur,Dug Well,Outside Basin,False
+HP II-03,11.160135,77.28601999999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP-II-02,11.09598,77.26869499999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CBE01,11.3456852,77.0946471,18.Coimbatore,Bore Well,Karamadai,True
+HP1CBE02,11.2398704,76.9594996,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CBE03,10.858001,76.961133,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CBE05,10.933333,77.220833,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CBE06,10.83444444,77.22722222,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CBE07,10.819444,77.272222,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CBE07(A),10.81583333,77.27444443999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CBE08,10.891667,77.34999999999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CBE09,10.617495,77.15876199999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CBE10,10.661111,77.05527777999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CBE11,10.622225,76.84457999999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP1CTR04,10.934492,77.277361,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CTR05,10.933333,77.220833,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CTR05(A),10.95611111,77.25944443999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CTR08,10.891667,77.34999999999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CTR08(A),10.877157,77.295964,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CTR12,10.674867,77.153627,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CTR13,10.688622,77.2818428,19.Tiruppur,Bore Well,Outside Basin,False
+HP1CTR14,10.495278,77.241667,19.Tiruppur,Bore Well,Outside Basin,False
+HP1E01,11.609212,77.716891,16.Erode,Bore Well,Outside Basin,False
+HP1E02,11.565,77.59583329999998,16.Erode,Bore Well,Anthiyur,True
+HP1E03,11.619444,77.58583,16.Erode,Bore Well,Anthiyur,True
+HP1E04,11.545833,77.579167,16.Erode,Bore Well,Anthiyur,True
+HP1E04 A,11.546545,77.577302,16.Erode,Bore Well,Anthiyur,True
+HP1E05,11.509722,77.36249999999998,16.Erode,Bore Well,T.N. Palayam,True
+HP1E05 A,11.510615,77.362205,16.Erode,Bore Well,T.N. Palayam,True
+HP1E06,11.511111,77.636111,16.Erode,Bore Well,Bhavani,True
+HP1E06 A,11.5125,77.640556,16.Erode,Bore Well,Bhavani,True
+HP1E07,11.2761962,77.58292179999998,16.Erode,Bore Well,Outside Basin,False
+HP1E08,11.2343678,77.77777779999998,16.Erode,Bore Well,Outside Basin,False
+HP1E09,11.105,77.87829999999998,16.Erode,Bore Well,Outside Basin,False
+HP1E12,11.272222,77.530556,16.Erode,Bore Well,Perundurai,True
+HP1E12 A,11.272184,77.530298,16.Erode,Bore Well,Perundurai,True
+HP1E14,11.369444,77.323611,16.Erode,Bore Well,Nambiyur,True
+HP1E14A,11.357406,77.317043,16.Erode,Bore Well,Nambiyur,True
+HP1E15,11.4107929,77.3990565,16.Erode,Bore Well,Gobi,True
+HP1E16,11.5433865,77.15911629999998,16.Erode,Bore Well,Sathyamangalam,True
+HP1E17,11.6738375,77.1290886,16.Erode,Bore Well,Outside Basin,False
+HP1E18,11.7733455,77.0040709,16.Erode,Bore Well,Outside Basin,False
+HP1E19 A,11.3626142,77.4553175,16.Erode,Bore Well,Gobi,True
+HP1E20,11.533333,77.533333,16.Erode,Bore Well,Anthiyur,True
+HP1E20 A,11.537999,77.548399,16.Erode,Bore Well,Anthiyur,True
+HP1ETR10,10.947536,77.710789,19.Tiruppur,Bore Well,Outside Basin,False
+HP1ETR11,11.1511,77.4223,19.Tiruppur,Bore Well,Outside Basin,False
+HP1ETR13,11.266667,77.455556,19.Tiruppur,Bore Well,Outside Basin,False
+HP1ETR13A,11.2673248,77.45344319999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CBE01,11.192527,77.08781999999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE03,11.291668,77.166669,19.Tiruppur,Bore Well,Avinashi,True
+HP2CBE05,11.23398,76.906209,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE06,10.937488,76.855759,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE07,10.915439,77.03874,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE08,11.150982,77.012021,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE09,11.178317,76.989669,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE10,11.041667,76.94166699999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE10(A),11.04,76.91972221999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE11,10.995571,76.815348,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE13,11.147222,77.163889,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE13(A),11.1940029,77.1458199,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE14,10.9,77.116667,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE14(A),10.90113,77.123292,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE15,11.055556,77.086111,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE15(A),11.0469931,77.07965029999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE17,11.004912,77.045354,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE22,10.6033373,77.0149791,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE23,10.7419448,77.02568069999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE24,10.58784,76.9365128,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE24(A),10.513013,76.88257299999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE25,10.628433,77.1148974,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE26,10.327933,76.95506899999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE27,10.811111,76.929167,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE27(A),10.819444,77.019722,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE28,10.833333,77.08333299999998,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE28(A),10.83611111,77.08222222,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE33(A),10.755278,77.165,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE34,10.486364,76.96709,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE35,10.534691,76.995518,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE36,10.5802,77.060953,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE37,11.0125997,77.0671056,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CBE38,11.145179,77.051005,18.Coimbatore,Bore Well,Outside Basin,False
+HP2CTR02,11.244774,77.237288,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR03,11.291667,77.166667,19.Tiruppur,Bore Well,Avinashi,True
+HP2CTR04,11.319356,77.28212,19.Tiruppur,Bore Well,Avinashi,True
+HP2CTR12,11.086189,77.21408499999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR16,10.983442,77.221917,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR18,10.966665,77.4624,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR19,11.063934,77.351217,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR20,11.160688,77.37241899999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR21,11.0125,77.45,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR21(A),10.9724572,77.3646523,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR29,10.683333,77.20833299999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR30,10.655556,77.33888899999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR31,10.4430968,77.2909764,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR32,10.5558397,77.3654704,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR33,10.775,77.170833,19.Tiruppur,Bore Well,Outside Basin,False
+HP2CTR33A,10.75527778,77.165,19.Tiruppur,Bore Well,Outside Basin,False
+HP2E01,11.3972222,77.6911111,16.Erode,Bore Well,Outside Basin,False
+HP2E02,11.298708,77.697636,16.Erode,Bore Well,Outside Basin,False
+HP2E03,11.09944,77.73166999999998,16.Erode,Bore Well,Outside Basin,False
+HP2E04,11.5314218,77.707744,16.Erode,Bore Well,Outside Basin,False
+HP2E05,11.4689721,77.64201819999998,16.Erode,Bore Well,Bhavani,True
+HP2E06,11.3679167,77.59772839999998,16.Erode,Bore Well,Perundurai,True
+HP2E07,11.236669,77.657318,16.Erode,Bore Well,Outside Basin,False
+HP2E08,11.1127075,77.54987959999998,16.Erode,Bore Well,Outside Basin,False
+HP2E14,11.394545,77.08332199999998,16.Erode,Bore Well,Outside Basin,False
+HP2E16,11.4111946,77.2328186,16.Erode,Bore Well,Sathyamangalam,True
+HP2E17,11.459146,77.33676149999998,16.Erode,Bore Well,T.N. Palayam,True
+HP2E18,11.4321402,77.278408,16.Erode,Bore Well,Nambiyur,True
+HP2E19,11.5161556,77.4499581,16.Erode,Bore Well,T.N. Palayam,True
+HP2E20,11.323063,77.26252499999998,16.Erode,Bore Well,Avinashi,True
+HP2E31,11.2594,77.7069,16.Erode,Bore Well,Outside Basin,False
+HP2E32,11.3927718,77.6607931,16.Erode,Bore Well,Outside Basin,False
+HP2E33,11.50416667,77.61472222,16.Erode,Bore Well,Bhavani,True
+HP2E34,11.41,77.6075,16.Erode,Bore Well,Bhavani,True
+HP2E35,11.378371,77.578854,16.Erode,Bore Well,Perundurai,True
+HP2E36,11.329879,77.59774799999998,16.Erode,Bore Well,Outside Basin,False
+HP2E37,11.369966,77.653666,16.Erode,Bore Well,Outside Basin,False
+HP2E38,11.2228,77.82219999999998,16.Erode,Bore Well,Outside Basin,False
+HP2ETR09,10.89183,77.604236,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR10,11.041,77.334,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR10 A,11.068062,77.557872,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR11,11.045143,77.616298,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR12,11.036527,77.713192,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR13,11.06,77.28149999999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR13 A,11.100995,77.47036799999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR21,10.892059,77.526883,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR22,10.7762703,77.3147714,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR23,10.700057,77.39077799999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR24,10.631944,77.43611099999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR24 A,10.633032,77.431764,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR25,10.463,77.271,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR25 A,10.7813319,77.4631153,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR26,10.694891,77.62106,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR27,10.851993,77.671493,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR28,10.865569,77.765044,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR29,10.811954,77.870135,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR30,10.744329,77.610588,19.Tiruppur,Bore Well,Outside Basin,False
+HP2ETR30A,10.731964,77.759938,19.Tiruppur,Bore Well,Outside Basin,False
+HP2T01,10.90009,77.67271499999998,19.Tiruppur,Bore Well,Outside Basin,False
+HP3CBE02,10.628742,77.11089,18.Coimbatore,Bore Well,Outside Basin,False
+HP3Cbe01,10.708316,76.916386,18.Coimbatore,Bore Well,Outside Basin,False
+HP3E01,11.370964,77.706421,16.Erode,Bore Well,Outside Basin,False
+HP3E02,11.3834004,77.3089289,16.Erode,Bore Well,Nambiyur,True
+HP3E03,11.7672222,77.559444,16.Erode,Bore Well,Outside Basin,False
+HP3E04,11.4732005,77.130971,16.Erode,Bore Well,Bhavanisagar,True
+HP3TPR03,10.425709,77.285359,19.Tiruppur,Bore Well,Outside Basin,False
+HP3Tpr01,10.5474846,77.1832333,19.Tiruppur,Bore Well,Outside Basin,False
+HP3Tpr02,11.197273,77.36422899999998,19.Tiruppur,Bore Well,Outside Basin,False
+IBH-61268,11.55305556,77.50305556,16.Erode,Bore Well,Anthiyur,True
+IBH-61269,11.5486021,77.6130607,16.Erode,Bore Well,Anthiyur,True
+IBH-61271,11.481389,77.580833,16.Erode,Bore Well,Bhavani,True
+IBH-61273,11.4375,77.57055599999998,16.Erode,Bore Well,Bhavani,True
+IBH-61275,11.505596,77.71270099999998,16.Erode,Bore Well,Outside Basin,False
+IBH-61278,11.507421,77.5370274,16.Erode,Bore Well,Anthiyur,True
+IBH-61286,10.848516,77.44733499999998,19.Tiruppur,Bore Well,Outside Basin,False
+IBH-61288,10.847539,77.364732,19.Tiruppur,Bore Well,Outside Basin,False
+IBH-61296,11.374531,77.49428799999998,16.Erode,Bore Well,Gobi,True
+IBH61284,10.991572,77.720281,19.Tiruppur,Bore Well,Outside Basin,False
+MWSE01,11.5015129,77.25420599999998,16.Erode,Bore Well,Sathyamangalam,True
+MWSE02,11.4986797,77.2869166,16.Erode,Bore Well,T.N. Palayam,True
+MWSE03,11.4419193,77.3843353,16.Erode,Bore Well,Gobi,True
+MWSE04,11.46416667,77.52833332999998,16.Erode,Bore Well,Gobi,True
+MWSE05,11.155481,77.506586,16.Erode,Bore Well,Outside Basin,False
+MWSE08,11.08944,77.81,16.Erode,Bore Well,Outside Basin,False
+MWSE09,11.226944,77.73749999999998,16.Erode,Bore Well,Outside Basin,False
+MWSE10,11.428327,77.653282,16.Erode,Bore Well,Erode,True
+MWSE11,11.5615416,77.69282889999998,16.Erode,Bore Well,Outside Basin,False
+MWSETR06,11.213116,77.394526,19.Tiruppur,Bore Well,Outside Basin,False
+MWSETR07,11.266585,77.43894,19.Tiruppur,Bore Well,Outside Basin,False
+MWSETR12,10.87879,77.389106,19.Tiruppur,Bore Well,Outside Basin,False
+MWSETR13,10.815418,77.60688399999998,19.Tiruppur,Bore Well,Outside Basin,False
+MWSETR14,10.502,77.3251,19.Tiruppur,Bore Well,Outside Basin,False
+MWSETR15,10.744351,77.610569,19.Tiruppur,Bore Well,Outside Basin,False
+NSW 1,10.74166667,77.02805556,18.Coimbatore,Dug Well,Outside Basin,False
+NW-1,11.20889,77.84778,16.Erode,Dug Well,Outside Basin,False
+NW-2,11.3869388,77.3080904,16.Erode,Dug Well,Nambiyur,True
+NW-3,11.485139,77.47876599999998,16.Erode,Dug Well,Gobi,True
+NW-4,11.4857182,77.49367789999998,16.Erode,Dug Well,Gobi,True
+NW-5,11.532222,77.28,16.Erode,Dug Well,Sathyamangalam,True
+NW-5A,11.531497,77.283556,16.Erode,Dug Well,Sathyamangalam,True
+NW-6,11.63028,77.34139,16.Erode,Dug Well,Outside Basin,False
+NW-7,11.8102777,77.545,16.Erode,Dug Well,Outside Basin,False
+NW-8,11.7669444,77.55972199999998,16.Erode,Dug Well,Outside Basin,False
+New Well 12,10.9747222,76.91277778,18.Coimbatore,Dug Well,Outside Basin,False
+New Well 13,10.97861111,76.81194444,18.Coimbatore,Dug Well,Outside Basin,False
+New Well 18,10.961666,76.942222,18.Coimbatore,Dug Well,Outside Basin,False
+New well 10,10.332842,76.959243,18.Coimbatore,Dug Well,Outside Basin,False
+New well 14,10.97,76.90972222,18.Coimbatore,Dug Well,Outside Basin,False
+New well 16,10.991593,76.996724,18.Coimbatore,Dug Well,Outside Basin,False
+New well 17,10.990389,77.00909,18.Coimbatore,Dug Well,Outside Basin,False
+New well 19,10.959722,76.95,18.Coimbatore,Dug Well,Outside Basin,False
+New well 20,10.9425,76.9541667,18.Coimbatore,Dug Well,Outside Basin,False
+New well 21,10.881946,76.92470799999998,18.Coimbatore,Dug Well,Outside Basin,False
+New well 3,10.99055556,76.96527777999998,18.Coimbatore,Dug Well,Outside Basin,False
+New well 4,11.036184,76.973889,18.Coimbatore,Dug Well,Outside Basin,False
+New well 5,11.024951,76.96226199999998,18.Coimbatore,Dug Well,Outside Basin,False
+New well 6,10.904072,76.963457,18.Coimbatore,Dug Well,Outside Basin,False
+New well 7,10.992761,77.014172,18.Coimbatore,Dug Well,Outside Basin,False
+New well 9,11.048091,76.967461,18.Coimbatore,Dug Well,Outside Basin,False
+Valparai OW,10.332372,76.96118099999998,18.Coimbatore,Dug Well,Outside Basin,False
+new well 1,11.004223,77.018843,18.Coimbatore,Dug Well,Outside Basin,False
+new well 2,11.03083333,76.92472222,18.Coimbatore,Dug Well,Outside Basin,False
